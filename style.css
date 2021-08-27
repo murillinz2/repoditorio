@@ -1,0 +1,29 @@
+a{
+    text-decoration: none;
+    color: yellow;
+}
+
+p{
+    color: teal;
+}
+
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#p2{
+    color: chartreuse;
+}
+
+#h32{
+    color: chocolate;
+}
+
+.h1{
+    color: darkblue;
+    font-family: monospace;
+    border: 1px solid red;
+    text-align: center;
+}
